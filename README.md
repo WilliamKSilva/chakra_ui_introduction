@@ -1,5 +1,5 @@
 # Chakra UI
-Introduction to Chakra UI a component library that allow us to build accessible components easily.
+Introduction to Chakra UI, a component library that allow us to build accessible components easily.
 
 All the design was made following this Frontend Mentor challenge: https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-
 
